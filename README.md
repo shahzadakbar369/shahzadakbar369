@@ -8,7 +8,7 @@
 
 </div>
 
-A final-year Computer Science student (BSCS, GCU Lahore — graduating July 2026) building real, working software across **AI engineering** and **full-stack web development**. I don't stick to one stack — I go wherever the problem needs me to go: Python on one project, Next.js on another, raw SQL when the job calls for it.
+A graduated Computer Science aspirant (BSCS, GCU Lahore — graduating July 2026) building real, working software across **AI engineering** and **full-stack web development**. I don't stick to one stack — I go wherever the problem needs me to go: Python on one project, Next.js on another, raw SQL when the job calls for it.
 
 **What I'm into right now:**
 
