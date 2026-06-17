@@ -8,7 +8,7 @@
 
 </div>
 
-A graduated Computer Science aspirant (BSCS, GCU Lahore — graduating July 2026) building real, working software across **AI engineering** and **full-stack web development**. I don't stick to one stack — I go wherever the problem needs me to go: Python on one project, Next.js on another, raw SQL when the job calls for it.
+A graduated Computer Science aspirant (BSCS, GCU Lahore) building real, working software across **AI engineering** and **full-stack web development**. I don't stick to one stack — I go wherever the problem needs me to go: Python on one project, Next.js on another, raw SQL when the job calls for it.
 
 **What I'm into right now:**
 
@@ -94,10 +94,10 @@ I'm not boxed into a single framework or a single project. I'm a builder who pic
 
 | Project | Description | Stack |
 |---|---|---|
+| **[AIRA — AI Recruitment Platform](https://github.com/shahzadakbar369/AIRA-FYP)** | Final Year Project. Built the complete AI layer: CV parser, job matcher, MCQ generator, speech-enabled interview agent | Node.js · React · MongoDB · Groq SDK |
 | **[AI PDF Chatbot Assistant](https://github.com/shahzadakbar369/AI-PDF-Chatbot-Assistant)** | Full-stack RAG system — chat with any PDF using vector search, OCR, and LLaMA 3.3 | FastAPI · FAISS · Groq · MongoDB · React |
 | **[AI-Powered Backend (FastAPI + LLM)](https://github.com/shahzadakbar369/AI-Powered-Backend-System-FastAPI-LLM-PDF-Chatbot)** | Lightweight backend-only version of the PDF chatbot with clean modular architecture | FastAPI · Python · LLaMA 3.3 |
-| **AIRA — AI Recruitment Platform** | Final Year Project. Built the complete AI layer: CV parser, job matcher, MCQ generator, speech-enabled interview agent | Node.js · React · MongoDB · Groq SDK |
-
+| **[AI Software House — Multi-Agent SDLC Automation Platform](https://github.com/shahzadakbar369/AI-Software-House-Agent)** | Built an AI-powered software planning and generation system using multiple specialized agents. Converts a startup idea into business requirements, software architecture, project plans, cost estimations, code scaffolding, and downloadable project structures through an interactive dashboard. | Python · FastAPI · React · Vite · Groq · Multi-Agent AI · JSON Pipelines |
 ---
 
 ### 📫 Let's Connect
